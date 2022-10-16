@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-09T21:26:22 EET" name="Default suite" finished-at="2022-09-09T21:26:28 EET" duration-ms="6139">
+    <groups>
+    </groups>
+    <test started-at="2022-09-09T21:26:22 EET" name="Default test" finished-at="2022-09-09T21:26:28 EET" duration-ms="6139">
+      <class name="maven.selenium.TestNGDemo">
+        <test-method is-config="true" signature="openURL()[pri:0, instance:maven.selenium.TestNGDemo@53aac487]" started-at="2022-09-09T21:26:22 EET" name="openURL" finished-at="2022-09-09T21:26:27 EET" duration-ms="4989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="userLogin()[pri:0, instance:maven.selenium.TestNGDemo@53aac487]" started-at="2022-09-09T21:26:27 EET" name="userLogin" finished-at="2022-09-09T21:26:27 EET" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+        <test-method signature="userPageTitle()[pri:0, instance:maven.selenium.TestNGDemo@53aac487]" started-at="2022-09-09T21:26:27 EET" name="userPageTitle" finished-at="2022-09-09T21:26:27 EET" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userPageTitle -->
+        <test-method is-config="true" signature="closeWebsit()[pri:0, instance:maven.selenium.TestNGDemo@53aac487]" started-at="2022-09-09T21:26:27 EET" name="closeWebsit" finished-at="2022-09-09T21:26:28 EET" duration-ms="1038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWebsit -->
+      </class> <!-- maven.selenium.TestNGDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
